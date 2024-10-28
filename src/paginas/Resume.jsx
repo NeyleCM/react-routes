@@ -1,4 +1,3 @@
-import React from 'react';
 import { studies, experiences } from '../data/resume';
 
 function Resume() {

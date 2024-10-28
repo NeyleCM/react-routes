@@ -1,9 +1,8 @@
-import React from 'react';
-import './App.css'
 import { Routes, Route, Link } from 'react-router-dom';
 import Home from './paginas/Home';
 import Projects from './paginas/Projects';
 import Resume from './paginas/Resume';
+import './App.css'
 
 function App() {
   return (
